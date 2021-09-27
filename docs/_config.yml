@@ -16,7 +16,7 @@
 title: UNAFFILIATE @ CNS Summit 2021
 email: info@unaffiliate.org
 description: >- # this means to ignore newlines until "baseurl:"
-Stop net/working. Start dancing.
+"Stop net/working. Start dancing."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unaffiliate.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
